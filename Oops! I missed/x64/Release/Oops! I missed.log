@@ -1,0 +1,232 @@
+﻿  OOP.cpp
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(66,22): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(66,22): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(66,22): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(66,22): warning C4244:             T=unsigned int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(66,22): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(100,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(106,22): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(106,22): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(106,22): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(106,22): warning C4244:             T=unsigned int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(106,22): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(120,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(120,45): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(120,45): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(120,45): warning C4244:             T=unsigned int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(120,45): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(158,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(164,22): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(164,22): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(164,22): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(164,22): warning C4244:             T=unsigned int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(164,22): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(177,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(177,45): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(177,45): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(177,45): warning C4244:             T=unsigned int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(177,45): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(379,73): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(379,73): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(379,73): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(379,73): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(379,73): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(389,56): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(411,83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(411,83): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(411,83): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(411,83): warning C4244:             T=unsigned int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(411,83): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(411,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(411,53): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(411,53): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(411,53): warning C4244:             T=unsigned int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(411,53): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(415,85): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(415,85): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(415,85): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(415,85): warning C4244:             T=unsigned int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(415,85): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(415,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(415,55): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(415,55): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(415,55): warning C4244:             T=unsigned int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(415,55): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,82): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,82): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,82): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,82): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,82): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,82): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,82): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,82): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,70): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,70): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,70): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,70): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,70): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,70): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,70): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(523,70): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,81): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,81): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,81): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,81): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,81): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,81): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,81): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,81): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,69): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,69): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,69): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,69): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,69): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,69): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,69): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(534,69): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,82): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,82): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,82): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,82): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,82): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,82): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,82): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,82): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,70): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,70): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,70): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,70): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,70): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,70): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,70): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(545,70): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,84): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,84): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,84): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,84): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,84): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,84): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,84): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,84): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,84): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,72): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,72): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,72): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,72): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,72): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,72): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,72): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(556,72): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(650,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(650,51): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(650,51): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(650,51): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(650,51): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(650,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(650,39): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(650,39): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(650,39): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(650,39): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,95): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,95): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,95): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,95): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,95): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,95): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,95): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,95): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,95): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,78): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,78): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,78): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,78): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,78): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,78): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,78): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(759,78): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,95): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,95): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,95): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,95): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,95): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,95): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,95): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,95): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,95): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,78): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,78): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,78): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,78): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,78): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,78): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,78): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(914,78): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,96): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,96): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,96): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,96): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,96): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,96): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,96): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,96): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,96): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,79): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,79): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,79): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,79): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,79): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,79): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,79): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(922,79): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,92): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,92): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,92): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,92): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,92): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,92): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,92): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,92): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,92): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,75): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,75): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,75): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,75): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,75): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,75): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,75): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(928,75): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,98): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,98): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,98): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,98): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,98): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,98): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,98): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,98): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,98): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,81): warning C4244:         with
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,81): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,81): warning C4244:             T=int
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,81): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,81): warning C4244:         and
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,81): warning C4244:         [
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,81): warning C4244:             T=float
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(933,81): warning C4244:         ]
+C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\Oops! I missed\OOP.cpp(1057,56): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 236 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Oops! I missed.vcxproj -> C:\Users\Lenovo\OneDrive\Desktop\OOP Project\Oops! I missed\x64\Release\Oops! I missed.exe
